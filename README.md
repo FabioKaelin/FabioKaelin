@@ -1,6 +1,9 @@
 ### Hallo ich bin ein Informatik-Lehrling im 1. Lehrjahr
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKaelin&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKaelin&langs_count=5&theme=tokyonight&layout=compact)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioKaelin&repo=Cleo-Messager-Web&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- ### 🔭 Ich bin gerade an ***Meinem eigenen VS-Code Theme*** am Arbeiten -->
 
