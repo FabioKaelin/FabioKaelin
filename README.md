@@ -1,4 +1,4 @@
-### Hallo ich bin ein Informatik-Lehrling im 1. Lehrjahr
+### Hallo ich bin ein Informatik-Lehrling im 2. Lehrjahr
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKaelin&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/FabioKaelin)
 
