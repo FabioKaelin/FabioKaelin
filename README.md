@@ -19,3 +19,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioKaelin&langs_count=5&theme=tokyonight&layout=compact">
 </p>
+
+  <a href="https://www.linkedin.com/in/fabio-k%C3%A4lin-21a3b4259">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
